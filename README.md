@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Programming portfolio 1
+## Nirvik Sharma 2017
+
+Inline-style: 
+![alt text](https://nirviksharma.github.io/Programming1Portfolio/pic.png "Logo Title Text 1")
 
 You can use the [editor on GitHub](https://github.com/nirviksharma/Programming1Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
