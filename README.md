@@ -26,4 +26,4 @@
 
 #### This roach population project was the first of many we did this year it was very simple and gave us a general concept on how to use Terminal most of the project we used didnt have a GUI so we ran them through Terminal 
 
-[alt text](https://nirviksharma.github.io/Programming1Portfolio/roach.png "Logo Title Text 1")
+[alt text](https://nirviksharma.github.io/Programming1Portfolio/roach.png"Logo Title Text 1")
