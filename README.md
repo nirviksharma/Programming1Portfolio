@@ -35,3 +35,8 @@
 #### As of right now I am working on a big project which requires mulitple year two practices with my partner Nick Duval. We are making a tax calculator which when the user inputs data. The programm will use that data to calculate there taxes. I im working on the GUI aspect of it.
 
 ![alt text](https://nirviksharma.github.io/Programming1Portfolio/taxes.png)"Tax Calc."
+
+#### This is the GUI for the tax project we are working on "not yet complete"
+
+![alt text](https://nirviksharma.github.io/Programming1Portfolio/t1.png)"Tax GUI."
+![alt text](https://nirviksharma.github.io/Programming1Portfolio/t2.png)"Tax GUI."
