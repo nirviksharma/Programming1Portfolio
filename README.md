@@ -23,3 +23,5 @@
 
 
 ### Hey guys its me again this time I will be showcasing my year two projects and what I have been doing. This year we focused in Java 
+
+#### This roach population project was the first of many we did this year it was very simple and gave us a general concept on how to use Terminal most of the project we used didnt have a GUI so we ran them through Terminal 
