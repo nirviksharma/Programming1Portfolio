@@ -22,3 +22,4 @@
 ![alt text](https://nirviksharma.github.io/Programming1Portfolio/h.png "Logo Title Text 1")
 
 
+### Hey guys its me again this time I will be showcasing my year two projects and what I have been doing. This year we focused in Java 
