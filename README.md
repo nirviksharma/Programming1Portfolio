@@ -30,3 +30,8 @@
 
 #### Some projects we worked on we did not complete like the tictactoe game project we simpliy didnt have engough time but we I do I will be sure to come back to it and finish it
 ![alt text](https://nirviksharma.github.io/Programming1Portfolio/tictactoe.png)"Tic Tac Toe Game"
+
+
+#### As of right now I am working on a big project which requires mulitple year two practices with my partner Nick Duval. We are making a tax calculator which when the user inputs data. The programm will use that data to calculate there taxes. I im working on the GUI aspect of it.
+
+![alt text](https://nirviksharma.github.io/Programming1Portfolio/taxes.png)"Tax Calculator"
