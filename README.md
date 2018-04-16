@@ -34,4 +34,4 @@
 
 #### As of right now I am working on a big project which requires mulitple year two practices with my partner Nick Duval. We are making a tax calculator which when the user inputs data. The programm will use that data to calculate there taxes. I im working on the GUI aspect of it.
 
-![alt text](https://nirviksharma.github.io/Programming1Portfolio/taxes.png)"Tax Calculator"
+![alt text](https://nirviksharma.github.io/Programming1Portfolio/taxes.png)"Tax Calc."
