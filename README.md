@@ -27,3 +27,6 @@
 #### This roach population project was the first of many we did this year it was very simple and gave us a general concept on how to use Terminal most of the project we used didnt have a GUI so we ran them through Terminal 
 
 ![alt text](https://nirviksharma.github.io/Programming1Portfolio/roach.png)"Roach Population"
+
+#### Some projects we worked on we did not complete like the tictactoe game project we simpliy didnt have engough time but we I do I will be sure to come back to it and finish it
+![alt text](https://nirviksharma.github.io/Programming1Portfolio/tictactoe.png)"Tic Tac Toe Game"
